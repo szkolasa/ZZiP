@@ -4,6 +4,6 @@ namespace ZZiP
 {
   public IInterface
   {
-  
+    void Do();
   }
 }
